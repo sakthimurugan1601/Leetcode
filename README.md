@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sakthimurugan1601/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sakthimurugan1601/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sakthimurugan1601/Leetcode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/sakthimurugan1601/Leetcode/tree/master/0051-n-queens) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakthimurugan1601/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sakthimurugan1601/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sakthimurugan1601/Leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/sakthimurugan1601/Leetcode/tree/master/0051-n-queens) |
 ## String Matching
 |  |
 | ------- |
