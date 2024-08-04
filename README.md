@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakthimurugan1601/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sakthimurugan1601/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/sakthimurugan1601/Leetcode/tree/master/0051-n-queens) |
+| [0119-pascals-triangle-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0136-single-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakthimurugan1601/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sakthimurugan1601/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sakthimurugan1601/Leetcode/tree/master/0022-generate-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
