@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakthimurugan1601/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sakthimurugan1601/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/sakthimurugan1601/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/sakthimurugan1601/Leetcode/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakthimurugan1601/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sakthimurugan1601/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/sakthimurugan1601/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/sakthimurugan1601/Leetcode/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sakthimurugan1601/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/sakthimurugan1601/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sakthimurugan1601/Leetcode/tree/master/0190-reverse-bits) |
 ## Divide and Conquer
