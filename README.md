@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakthimurugan1601/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/sakthimurugan1601/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0870-magic-squares-in-grid](https://github.com/sakthimurugan1601/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakthimurugan1601/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakthimurugan1601/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sakthimurugan1601/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/sakthimurugan1601/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/sakthimurugan1601/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0870-magic-squares-in-grid](https://github.com/sakthimurugan1601/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakthimurugan1601/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sakthimurugan1601/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/sakthimurugan1601/Leetcode/tree/master/0029-divide-two-integers) |
+| [0149-max-points-on-a-line](https://github.com/sakthimurugan1601/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0870-magic-squares-in-grid](https://github.com/sakthimurugan1601/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0921-spiral-matrix-iii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sakthimurugan1601/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
