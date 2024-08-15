@@ -1,28 +1,29 @@
 import java.util.ArrayList;
 import java.util.List;
-
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        backtrack(result, "", 0, 0, n);
-        return result;
+public void solve(int n,String str,List<String>result,int open_count,int close_count){
+    if(open_count==n && close_count==n){
+        result.add(str);
+        return;
     }
-
-    private void backtrack(List<String> result, String current, int open, int close, int max) {
-        // Base case: if the current string is complete
-        if (current.length() == max * 2) {
-            result.add(current);
-            return;
+    else{
+        if(open_count<n){
+            solve(n,str+"(",result,open_count+1,close_count);
+        }
+        if(open_count>close_count){
+            solve(n,str+")",result,open_count,close_count+1);
         }
 
-        // If we can add an open parenthesis
-        if (open < max) {
-            backtrack(result, current + "(", open + 1, close, max);
-        }
-
-        // If we can add a close parenthesis
-        if (close < open) {
-            backtrack(result, current + ")", open, close + 1, max);
-        }
     }
 }
+
+
+    public List<String> generateParenthesis(int n) {
+        List <String> result=new ArrayList<>();
+        String str="";
+        solve(n,str,result,0,0);
+        return result;
+    }
+}
+
+        
