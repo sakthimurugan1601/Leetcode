@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakthimurugan1601/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/sakthimurugan1601/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0792-binary-search](https://github.com/sakthimurugan1601/Leetcode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/sakthimurugan1601/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakthimurugan1601/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakthimurugan1601/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sakthimurugan1601/Leetcode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/sakthimurugan1601/Leetcode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sakthimurugan1601/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
 |  |
