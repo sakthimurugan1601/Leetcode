@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sakthimurugan1601/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakthimurugan1601/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/sakthimurugan1601/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0778-reorganize-string](https://github.com/sakthimurugan1601/Leetcode/tree/master/0778-reorganize-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakthimurugan1601/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/sakthimurugan1601/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakthimurugan1601/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sakthimurugan1601/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sakthimurugan1601/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
