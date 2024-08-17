@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakthimurugan1601/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/sakthimurugan1601/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0179-largest-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0179-largest-number) |
 | [0792-binary-search](https://github.com/sakthimurugan1601/Leetcode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/sakthimurugan1601/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sakthimurugan1601/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sakthimurugan1601/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sakthimurugan1601/Leetcode/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/sakthimurugan1601/Leetcode/tree/master/0778-reorganize-string) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakthimurugan1601/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sakthimurugan1601/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sakthimurugan1601/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sakthimurugan1601/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakthimurugan1601/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/sakthimurugan1601/Leetcode/tree/master/0778-reorganize-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sakthimurugan1601/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/sakthimurugan1601/Leetcode/tree/master/0778-reorganize-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakthimurugan1601/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
